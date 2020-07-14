@@ -1,0 +1,20 @@
+{
+  "profiles": [
+    {
+      "basic": {
+        "name": "Hemanth",
+        "role": "Student",
+        "Phone": "9573188736",
+        "email": "sreesai169@gmail.com"
+      }
+    },
+    {
+      "basic": {
+        "name": "Sree Sai",
+        "role": "Student",
+        "Phone": "8919791594",
+        "email": "sreesai132@gmail.com"
+      }
+    }
+  ]
+}
